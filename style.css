@@ -134,34 +134,58 @@
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
      }
+     .gender{
+      display: flex;
+      margin-left: 14%;
+      gap: 10px;
+      font-size: larger;
+      color: white;
+      font-weight: bolder;
+   }
 
  }
  @media  screen and ( max-width: 900px){
 
    .border{
-      width: 65%;
+      width: 58%;
       border: 2px solid black;
       margin-left: 20%;
       height: 134vh;
-      padding-left: 2%;
-      margin-left: 29%;
+      padding-left: 1%;
+      margin-left: 22%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
  }
+ .gender{
+   display: flex;
+   margin-left: 14%;
+   gap: 10px;
+   font-size: larger;
+   color: white;
+   font-weight: bolder;
+}
  }
 @media  screen and ( max-width: 800px){
    .border{
-      width: 62%;
+      width: 58%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 134vh;
-      padding-left: 2%;
-      margin-left: 29%;
+      height: 105vh;
+      padding-left: 1%;
+      margin-left: 22%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
  }
+ .gender{
+   display: flex;
+   margin-left: 14%;
+   gap: 3px;
+   font-size: larger;
+   color: white;
+   font-weight: bolder;
+}
 
 }
 @media  screen and ( max-width: 750px){
@@ -169,13 +193,21 @@
       width: 68%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 134vh;
+      height: 105vh;
       padding-left: 2%;
       margin-left: 20%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
  }
+ .gender{
+   display: flex;
+   margin-left: 14%;
+   gap: 3px;
+   font-size: larger;
+   color: white;
+   font-weight: bolder;
+}
 }
    
 @media  screen and ( max-width: 700px){
@@ -183,7 +215,7 @@
       width: 75%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 138vh;
+      height: 105vh;
       padding-left: 0%;
       margin-left: 12%;
       border-radius: 2rem 2rem;
@@ -205,7 +237,7 @@
       width: 76%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 138vh;
+      height: 105vh;
       padding-left: 0%;
       margin-left: 10%;
       border-radius: 2rem 2rem;
@@ -240,7 +272,7 @@
       width: 88%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 138vh;
+      height: 105vh;
       padding-left: 0%;
       margin-left: 5%;
       border-radius: 2rem 2rem;
