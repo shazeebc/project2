@@ -180,37 +180,55 @@
    
 @media  screen and ( max-width: 700px){
    .border{
-      width: 64%;
+      width: 75%;
       border: 2px solid black;
       margin-left: 20%;
       height: 138vh;
-      padding-left: 2%;
-      margin-left: 17%;
+      padding-left: 0%;
+      margin-left: 12%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
  }
+ .gender{
+   display: flex;
+   margin-left: 14%;
+   gap: 3px;
+   font-size: larger;
+   color: white;
+   font-weight: bolder;
+}
+
 }
 @media  screen and ( max-width: 650px){
    .border{
-      width: 74%;
+      width: 76%;
       border: 2px solid black;
       margin-left: 20%;
       height: 138vh;
-      padding-left: 2%;
-      margin-left: 17%;
+      padding-left: 0%;
+      margin-left: 10%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
+   }
+      .gender{
+         display: flex;
+         margin-left: 14%;
+         gap: 10px;
+         font-size: larger;
+         color: white;
+         font-weight: bolder;
+      }
  }
-}
+
 @media  screen and ( max-width: 600px){
    .border{
-      width: 81%;
+      width: 83%;
       border: 2px solid black;
       margin-left: 20%;
       height: 138vh;
-      padding-left: 2%;
+      padding-left: 0%;
       margin-left: 8%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -219,12 +237,12 @@
 }
 @media  screen and ( max-width: 550px){
    .border{
-      width: 85%;
+      width: 88%;
       border: 2px solid black;
       margin-left: 20%;
       height: 138vh;
-      padding-left: 2%;
-      margin-left: 6%;
+      padding-left: 0%;
+      margin-left: 5%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
       box-shadow: 6px 7px 2px 2px  rgba(219, 16, 16, 0.3);
