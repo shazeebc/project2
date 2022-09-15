@@ -10,21 +10,19 @@
     position: relative;
     background-image: url(/image/bg4.jpg);}
  .reg2{
-    margin-left:20%;
+    margin-left:18%;
     margin-top: 0%;
     font-size: x-large;
     font-weight: bolder;
     padding: 9px;
     color: white;
-    
-    
  }
  .border{
   width: 40%;
   border: 2px solid black;
   margin-left: 30%;
-  height: 99vh;
-  padding-left: 2%;
+  height: 100vh;
+  padding-left:0%;
   margin-left: 29%;
   border-radius: 2rem 2rem;
   background-color: rgba(0, 0, 0, 0.3);
@@ -40,6 +38,7 @@
  .inbox input{
   padding: 9px 9px;
   border-radius: 0.5rem;
+  margin-top: 4px;
   border-color:#CD113B;
   
  }
@@ -76,6 +75,7 @@
  .inbox2 input{
   padding: 9px 9px;
   border-radius: 0.5rem;
+  /* margin-top: 4px; */
   border-color:#CD113B;
  }
  .inbox3{
@@ -94,6 +94,7 @@
  .ind{
   width: 43%;
   padding: 9px 10px;
+  margin-top: 4px;
   border-radius: 0.5rem;
   border-color:#CD113B;
  }
@@ -101,6 +102,7 @@
   padding: 9px 9px;
   border-color:#CD113B;
   border-radius: 0.5rem;
+  /* margin-top: 4px; */
   
  }
  .sub{
@@ -150,7 +152,7 @@
       width: 58%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 134vh;
+      height: 101vh;
       padding-left: 1%;
       margin-left: 22%;
       border-radius: 2rem 2rem;
@@ -215,7 +217,7 @@
       width: 75%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 105vh;
+      height: 107vh;
       padding-left: 0%;
       margin-left: 12%;
       border-radius: 2rem 2rem;
@@ -237,7 +239,7 @@
       width: 76%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 105vh;
+      height: 107vh;
       padding-left: 0%;
       margin-left: 10%;
       border-radius: 2rem 2rem;
@@ -259,7 +261,7 @@
       width: 83%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 138vh;
+      height: 107vh;
       padding-left: 0%;
       margin-left: 8%;
       border-radius: 2rem 2rem;
@@ -281,7 +283,7 @@
       width: 88%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 105vh;
+      height: 142vh;
       padding-left: 0%;
       margin-left: 5%;
       border-radius: 2rem 2rem;
@@ -303,7 +305,7 @@
       width: 92%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 135vh;
+      height: 141vh;
       padding-left: 1%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
@@ -325,7 +327,7 @@
       width: 92%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 152vh;
+      height: 148vh;
       padding-left: 1%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
@@ -340,6 +342,14 @@
    color: white;
    font-weight: bolder;
 }
+.reg2{
+   margin-left:8%;
+   margin-top: 0%;
+   font-size: x-large;
+   font-weight: bolder;
+   padding: 9px;
+   color: white;
+}
 }
 
 @media  screen and ( max-width: 400px){
@@ -347,7 +357,7 @@
       width: 92%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 155vh;
+      height: 157vh;
       padding-left: 1%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
@@ -363,6 +373,14 @@
    color: white;
    font-weight: bolder;
 }
+.reg2{
+   margin-left:4%;
+   margin-top: 0%;
+   font-size: x-large;
+   font-weight: bolder;
+   padding: 9px;
+   color: white;
+}
 }
 
 @media  screen and ( max-width: 350px){
@@ -370,7 +388,7 @@
       width: 92%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 155vh;
+      height: 157vh;
       padding-left: 2%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
@@ -386,6 +404,16 @@
    color: white;
    font-weight: bolder;
 }
+.reg2{
+   margin-left:4%;
+   margin-top: 0%;
+   font-size: x-large;
+   font-weight: bolder;
+   padding: 9px;
+   color: white;
+}
+
+
 }
 
 @media  screen and ( max-width: 300px){
