@@ -130,7 +130,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 103vh;
-      padding-left: 2%;
+      padding-left: 0%;
       margin-left: 29%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -153,7 +153,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 101vh;
-      padding-left: 1%;
+      padding-left: 0%;
       margin-left: 22%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -174,7 +174,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 105vh;
-      padding-left: 1%;
+      padding-left: 0%;
       margin-left: 22%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -196,7 +196,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 105vh;
-      padding-left: 2%;
+      padding-left: 0%;
       margin-left: 20%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -306,7 +306,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 141vh;
-      padding-left: 1%;
+      padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -328,7 +328,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 148vh;
-      padding-left: 1%;
+      padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -354,11 +354,11 @@
 
 @media  screen and ( max-width: 400px){
    .border{
-      width: 92%;
+      width: 100%;
       border: 2px solid black;
       margin-left: 20%;
       height: 157vh;
-      padding-left: 1%;
+      padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -384,12 +384,13 @@
 }
 
 @media  screen and ( max-width: 350px){
+   
    .border{
-      width: 92%;
+      width: 105%;
       border: 2px solid black;
       margin-left: 20%;
       height: 157vh;
-      padding-left: 2%;
+      padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
@@ -422,7 +423,7 @@
       border: 2px solid black;
       margin-left: 20%;
       height: 155vh;
-      padding-left: 2%;
+      padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
       background-color: rgba(0, 0, 0, 0.3);
