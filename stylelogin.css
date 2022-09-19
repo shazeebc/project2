@@ -21,8 +21,10 @@
     /* width:542px;
     height: 100px; */
     padding-left: 20%;
-    display: flex;
-    justify-items:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
    height: 20%;
    width: fit-content;
 }
