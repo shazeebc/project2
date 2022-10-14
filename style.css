@@ -447,7 +447,7 @@
 @media screen and (max-width: 450px) {
    .background img {
       width: 103%;
-      height: 168vh;
+      height: 158vh;
       position: absolute;
       z-index: -9999;
       opacity: 0.8;
