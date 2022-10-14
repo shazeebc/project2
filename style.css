@@ -419,15 +419,15 @@
       color: white;
       font-weight: bolder;
    }
-   .inbox1 {
-      display: flex;
-      flex-wrap: wrap;
-      margin-left: 14%;
-      gap: 5px;
+   .inbox2 input {
+      padding: 9px 9px;
+      border-radius: 0.5rem;
+      margin-top: 6px;
+      border-color: #CD113B;
+      
       outline: none;
-      color: white;
-      font-weight: bolder;
    }
+  
    .border {
       width: 92%;
       border: 2px solid black;
