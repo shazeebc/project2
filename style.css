@@ -9,7 +9,7 @@
 .container {
    width: 100%;
    min-height: 100vh;
-   /* background-image: url(/image/bg5.jpg); */
+   
    background-size: cover;
    position: relative;
    opacity: 0.8;
@@ -114,8 +114,9 @@
 .inbox2 input {
    padding: 9px 9px;
    border-radius: 0.5rem;
-   /* margin-top: 4px; */
+   margin-top: 4px;
    border-color: #CD113B;
+   
    outline: none;
 }
 
@@ -413,6 +414,15 @@
       flex-wrap: wrap;
       margin-left: 14%;
       margin-top: 5%;
+      gap: 5px;
+      outline: none;
+      color: white;
+      font-weight: bolder;
+   }
+   .inbox1 {
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: 14%;
       gap: 5px;
       outline: none;
       color: white;
