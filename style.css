@@ -528,11 +528,18 @@
 }
 
 @media screen and (max-width: 400px) {
+   .background img {
+      width: 103%;
+      height: 168vh;
+      position: absolute;
+      z-index: -9999;
+      opacity: 0.8;
+   }
    .border {
       width: 100%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 146vh;
+      height: 164vh;
       padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
@@ -561,12 +568,18 @@
 }
 
 @media screen and (max-width: 350px) {
-
+   .background img {
+      width: 108%;
+      height: 176vh;
+      position: absolute;
+      z-index: -9999;
+      opacity: 0.8;
+   }
    .border {
       width: 105%;
       border: 2px solid black;
       margin-left: 20%;
-      height: 147vh;
+      height: 172vh;
       padding-left: 0%;
       margin-left: 3%;
       border-radius: 2rem 2rem;
