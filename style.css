@@ -427,6 +427,14 @@
       
       outline: none;
    }
+   .inbox3 input {
+      padding: 9px 9px;
+      
+      border-color: #CD113B;
+      border-radius: 0.5rem;
+      margin-top: 12px;
+      outline: none;
+   }
   
    .border {
       width: 92%;
