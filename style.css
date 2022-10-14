@@ -401,6 +401,13 @@
 }
 
 @media screen and (max-width: 450px) {
+   .background img {
+      width: 103%;
+      height: 152vh;
+      position: absolute;
+      z-index: -9999;
+      opacity: 0.8;
+   }
    .border {
       width: 92%;
       border: 2px solid black;
