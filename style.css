@@ -409,6 +409,14 @@
       z-index: -9999;
       opacity: 0.8;
    }
+   .inbox input {
+      padding: 9px 9px;
+      border-radius: 0.5rem;
+      margin-top: 12px;
+      outline: none;
+      border-color: #CD113B;
+   
+   }
    .inbox1 {
       display: flex;
       flex-wrap: wrap;
