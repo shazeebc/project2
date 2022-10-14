@@ -409,6 +409,15 @@
       z-index: -9999;
       opacity: 0.8;
    }
+   .inbox {
+      margin-left: 14%;
+      gap: 10px;
+      color: white;
+      font-weight: bolder;
+      margin-top: 5%;
+     
+   
+   }
    .inbox input {
       padding: 9px 9px;
       border-radius: 0.5rem;
