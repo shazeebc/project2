@@ -1,0 +1,369 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.border{
+    border: 2px solid black;
+    width: 50%;
+    height: 80vh;
+    margin-left: 25%;
+    margin-top: 4%;
+    border-radius: 5px 5px;
+}
+.dum{
+    display: flex;
+    
+}
+.border .p1 {
+       margin-top: 5%;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bolder;
+      font-size: x-large;
+      margin-left: 20%;
+      
+}
+.border .p1 a{
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    padding: 5px 50px;
+    border-radius: 5px 5px;
+}
+.border .p2{
+    margin-top: 5%;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-left: 5%;
+}
+.border .p2 a{
+    background-color:#7978FF;
+    text-decoration: none;
+    padding: 5px 50px;
+    border-radius: 5px 5px;
+    color: white;
+}
+.sign{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 3%;
+    margin-right:5%;
+}
+.icon{
+    margin-left: 30%;
+    margin-top: 2%;
+   
+}
+.icon  a{
+    color: black;
+    margin-left: 5%;
+}
+.or{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 2%;
+    margin-right: 3%;
+}
+.input{
+    margin-left: 19%;
+    margin-top: 2%;
+}
+.input input{
+      padding: 8px 5px;
+      width: 77%;
+}
+.inputpass {
+    margin-left: 19%;
+    margin-top: 2%;
+}
+.inputpass input{
+    padding: 8px 5px;
+    width: 77%;
+}
+.check{
+    display: flex;
+}
+#loginCheck{
+    margin-left: 22%;
+    margin-top: 4%;
+}
+.form-check-label{
+    margin-top: 4%;
+    margin-left: 1%;
+}
+.forget {
+    margin-left: 20%;
+    margin-top: 4%;
+    color: blue;
+    
+}
+.forget a{
+    text-decoration: none;
+    color: blue;
+    font-size:15px;
+}
+.inputbtn{
+    margin-left: 19%;
+    margin-top: 4%;
+}
+.inputbtn input{
+    width: 77%;
+    padding: 8px 5px;
+    background-color:rgb(61, 61, 236);
+    border: none;
+    font-weight: bold;
+    border-radius: 5px 5px;
+    color: white;
+    cursor: pointer;
+}
+.not{
+    text-align: center;
+    margin-top: 4%;
+}
+.not a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+
+@media (max-width: 1100px)  {
+    .border{
+        border: 2px solid black;
+        width: 50%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 14%;
+    }
+          
+}
+@media (max-width: 1000px)  {
+    .border{
+        border: 2px solid black;
+        width: 50%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 10%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 6%;
+    }
+          
+}
+@media (max-width: 950px)  {
+    .border{
+        border: 2px solid black;
+        width: 50%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 8%;
+    }
+          
+}
+@media (max-width: 900px)  {
+    .border{
+        border: 2px solid black;
+        width: 50%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 3%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 850px)  {
+    .border{
+        border: 2px solid black;
+        width: 55%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 800px)  {
+    .border{
+        border: 2px solid black;
+        width: 60%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 750px)  {
+    .border{
+        border: 2px solid black;
+        width: 65%;
+        height: 60vh;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 700px)  {
+    .border{
+        border: 2px solid black;
+        width: 73%;
+        height: 60vh;
+        margin-left: 20%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 600px)  {
+    .border{
+        border: 2px solid black;
+        width: 80%;
+        height: 60vh;
+        margin-left: 10%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 550px)  {
+    .border{
+        border: 2px solid black;
+        width: 90%;
+        height: 60vh;
+        margin-left: 5%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 7%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 500px)  {
+    .border{
+        border: 2px solid black;
+        width: 95%;
+        height: 60vh;
+        margin-left: 2%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 3%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 450px)  {
+    .border{
+        border: 2px solid black;
+        width: 98%;
+        height: 60vh;
+        margin-left: 1%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 1%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 425px)  {
+    .border{
+        border: 2px solid black;
+        width: 100%;
+        height: 60vh;
+        margin-left: 1%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .border .p1{
+        margin-left: 0%;
+    }
+    .inputbtn{
+        margin-left: 19%;
+        margin-top: 10%;
+    }
+          
+}
+@media (max-width: 800px)  {
+   
+          
+}
