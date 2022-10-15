@@ -372,7 +372,7 @@
         border: 2px solid black;
         width: 95%;
         height: 65vh;
-        margin-left: 1%;
+        margin-left: 2%;
         margin-top: 5%;
         border-radius: 5px 5px;
     }
@@ -387,16 +387,47 @@
     .border .p1{
         margin-left: 0%;
     }
+    .border .p2{
+        margin-top: 5%;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bolder;
+        font-size: x-large;
+        margin-left: 2%;
+    }
+    .sign{
+        text-align: center;
+        font-size: x-large;
+        font-weight: bolder;
+        margin-top: 3%;
+        margin-right:5%;
+    }
+    .input{
+        margin-left: 15%;
+        margin-top: 2%;
+    }
+    .input input{
+          padding: 8px 5px;
+          width: 82%;
+    }
+    .inputpass {
+        margin-left: 15%;
+        margin-top: 2%;
+    }
+    .inputpass input{
+        padding: 8px 5px;
+        width: 82%;
+    }
     .inputbtn{
         margin-left: 15%;
-        margin-top: 10%;
+        margin-top: 14%;
     }
     #loginCheck{
-        margin-left: 22%;
-        margin-top: 4%;
+        margin-left: 10%;
+        margin-top: 2%;
     }
     .form-check-label{
-        margin-top: 4%;
+        margin-top: 2%;
         margin-left: 1%;
     }
     .forget {
