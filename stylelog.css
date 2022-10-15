@@ -348,18 +348,62 @@
 @media (max-width: 425px)  {
     .border{
         border: 2px solid black;
-        width: 100%;
-        height: 60vh;
+        width: 95%;
+        height: 65vh;
         margin-left: 1%;
         margin-top: 5%;
         border-radius: 5px 5px;
+    }
+    .dum{
+        display: flex;
+        flex-direction: column;
     }
     .border .p1{
         margin-left: 0%;
     }
     .inputbtn{
-        margin-left: 19%;
+        margin-left: 15%;
         margin-top: 10%;
+    }
+          
+}
+@media (max-width: 400px)  {
+    .border{
+        border: 2px solid black;
+        width: 95%;
+        height: 65vh;
+        margin-left: 1%;
+        margin-top: 5%;
+        border-radius: 5px 5px;
+    }
+    .dum{
+        display: flex;
+        flex-direction: column;
+    }
+    .icon  a{
+        color: black;
+        margin-left: 0%;
+    }
+    .border .p1{
+        margin-left: 0%;
+    }
+    .inputbtn{
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    #loginCheck{
+        margin-left: 22%;
+        margin-top: 4%;
+    }
+    .form-check-label{
+        margin-top: 4%;
+        margin-left: 1%;
+    }
+    .forget {
+        margin-left: 20%;
+        margin-top: 2%;
+        color: blue;
+        
     }
           
 }
