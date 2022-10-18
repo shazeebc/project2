@@ -355,6 +355,10 @@
         margin-left: 19%;
         margin-top: 10%;
     }
+    .show{
+        margin-left: 19%;
+        margin-top: 1%;
+    }
           
 }
 @media (max-width: 425px)  {
@@ -454,6 +458,10 @@
         margin-top: 2%;
         color: blue;
         
+    }
+    .show{
+        margin-left: 19%;
+        margin-top: 1%;
     }
           
 }
